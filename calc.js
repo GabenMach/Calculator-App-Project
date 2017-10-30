@@ -214,7 +214,7 @@ function mEquals() {
 }
 
 function mClear() {
-    Clear();
+    UltraClear();
 }
 
 var one =document.getElementById("button1");
