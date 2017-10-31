@@ -347,5 +347,6 @@ function UltraClear() {
     currentOperationON= undefined;
     tempStorage = undefined;
     switcchitwo = undefined;
+    lastWasEquals = false;
 
 }
